@@ -13,3 +13,19 @@ for viwe and edith
 2. Learning React.js
 3. Learning Tailwind.css
 4. Learning Next.js
+
+### JavaScript
+
+[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps]
+
+### React.js
+
+[https://react.dev/learn]
+
+### Tailwind
+
+[https://tailwindcss.com/docs/installation]
+
+### Next.js
+
+<https://nextjs.org/docs>
